@@ -28,6 +28,16 @@ Comparar o desempenho preditivo e a eficiência computacional de quatro modelos 
 
 - `recommender-systems-comparison.ipynb`: Notebook principal com os experimentos.
 - `/results`: Métricas e gráficos gerados.
+- `README.md`: Este arquivo de descrição.
+
+## 📚 Base de Dados
+
+Este projeto utiliza o conjunto de dados **The Movies Dataset**, disponível publicamente no Kaggle:
+
+🔗 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+Para rodar o notebook, baixe os arquivos e coloque-os na pasta `/data`.
+
 
 
 ## 📦 Requisitos
