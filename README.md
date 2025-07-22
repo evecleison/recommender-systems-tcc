@@ -24,24 +24,10 @@ Comparar o desempenho preditivo e a eficiência computacional de quatro modelos 
   - Tempo de inferência por usuário
   - Pico de uso de memória RAM
 
-## 📁 Estrutura
-
-- `recommender-systems-comparison.ipynb`: Notebook principal com os experimentos.
-- `/results`: Métricas e gráficos gerados.
-- `README.md`: Este arquivo de descrição.
-
 ## 📚 Base de Dados
 
 Este projeto utiliza o conjunto de dados **The Movies Dataset**, disponível publicamente no Kaggle:
 
 🔗 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
-Para rodar o notebook, baixe os arquivos e coloque-os na pasta `/data`.
 
-
-
-## 📦 Requisitos
-
-- Python 3.10+
-- Bibliotecas:
-  - pandas, numpy, scikit-learn, surprise, torch, transformers, etc.
